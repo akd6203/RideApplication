@@ -1,0 +1,11 @@
+# Ignore compiled Java classes and JAR files
+*.class
+*.jar
+
+# Ignore NetBeans project files and build directories
+/nbproject/
+/build/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
