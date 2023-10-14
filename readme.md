@@ -23,7 +23,7 @@
 The VIT Ride Application is a user management system developed in Java. This documentation provides a comprehensive understanding of the application, its objectives, and the technical aspects of its implementation.
 
 ## 2. Project Overview
-The VIT Ride Application addresses the need for an efficient ride-sharing platform for the VIT (Vellore Institute of Technology) community. It enables users to register, log in, book rides, provide ratings, and manage their user profiles.
+The VIT Ride Application addresses the need for an efficient ride-sharing platform for the VIT community. It enables users to register, log in, book rides, provide ratings, and manage their user profiles.
 
 ## 3. Technical Details
 
